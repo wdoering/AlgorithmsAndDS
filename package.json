@@ -1,0 +1,27 @@
+{
+  "name": "algorithmsandds",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "just exercising logic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdoering/AlgorithmsAndDS.git"
+  },
+  "keywords": [
+    "ES6",
+    "Algorithms",
+    "Data",
+    "Structures"
+  ],
+  "author": "Wagner Doering",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wdoering/AlgorithmsAndDS/issues"
+  },
+  "homepage": "https://github.com/wdoering/AlgorithmsAndDS#readme"
+}
