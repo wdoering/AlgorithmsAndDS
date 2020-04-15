@@ -1,5 +1,5 @@
 //Just a class to import and run whatever exercise I'm working on
-const sameFrequency = require("./Arrays/FrequencyCounter/sameFrequency");
+const averagePair = require("./Arrays/MultiplePointers/averagePair");
 
-const result = sameFrequency(123, 3213);
+const result = averagePair([1, 2, 3], 2);
 console.log(result);
